@@ -1,0 +1,15 @@
+{
+    "name": "fred/docker-php-stack",
+    "autoload": {
+        "psr-4": {
+            "Fred\\DockerPhpStack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Frédéric KOLLER",
+            "email": "43694853+fredckl@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
